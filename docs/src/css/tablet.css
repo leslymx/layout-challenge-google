@@ -1,0 +1,62 @@
+main {
+    height: 510px;
+}
+
+.menu-img {
+    height: 20px;
+}
+
+.user-img {
+    height: 40px;    
+    margin-top: -12px;
+}
+
+.logo {    
+    margin-top: 150px;    
+}
+
+.logo__img {
+    height: 92px;
+}
+
+.form-search__input {
+    height: 40px;
+    width: 500px;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: -30px;
+}
+
+.search-img {
+    height: 20px;
+    margin-left: 20px;
+}
+
+.microphone-img {
+    height: 20px;
+    margin-right: 20px;
+}
+
+.button {
+    font-size: 1rem;
+}
+
+.footer-bar {
+    height: 105px;
+}
+
+.footer-bar__text {
+    font-size: 14px;
+    height: 35px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.footer-bar__direction {
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+}

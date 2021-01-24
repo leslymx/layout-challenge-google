@@ -1,0 +1,23 @@
+main {
+    height: 500px;
+}
+
+.logo {
+    margin-top: 60px;
+}
+
+.footer-bar {
+    height: 50px;
+}
+
+.footer-bar__text {    
+    height: 20px;
+    margin-left: 20px;
+    margin-top: 0;
+    font-size: 1rem;
+}
+
+.footer-bar__direction a {
+    font-size: 1rem;
+    margin: 10px 0 3px 7px;
+}
